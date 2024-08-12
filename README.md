@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Node js**
 
-- 👯 I’m looking to collaborate on **Full Stack**
+- 👯 I’m looking to collaborate on **Full Stack Developer**
 
 - 📫 How to reach me **sangeetasahu241999@gmail.com**
 
