@@ -11,9 +11,9 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" width="500px" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
-- 🔭 I’m currently working on [youtude](https://github.com/sangeeta586/YouTube)
+- 🔭 I’m currently working on [My Porfolio ]([https://github.com/sangeeta586/Portfolio])
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning ****
 
 - 👯 I’m looking to collaborate on **Full Stack Developer**
 
